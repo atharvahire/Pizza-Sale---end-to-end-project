@@ -1,4 +1,4 @@
-# Pizza-Sale---end-to-end-project\
+# Pizza-Sale---end-to-end-project
 Developed "PizzaMetrics" project using SQL querying & Power BI
 visualization.
 Uncovered trends, identified top sellers, & pinpointed areas for
